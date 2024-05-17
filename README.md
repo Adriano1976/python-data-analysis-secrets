@@ -2,16 +2,14 @@
 A análise de dados com Python é uma habilidade essencial no mundo da programação e da ciência de dados. Este ebook revela alguns dos segredos mais valiosos para dominar essa arte, sempre com exemplos práticos e reais.
 
 <p align="center">
-    <img width="100" src=".github/assets/banner.png">
+    <img width="100" src="Assets/banner.png">
 </p>
-
 
 <p align="center">
 <a href="https://dio.me/"><img src="https://img.shields.io/badge/DIO-Course-28DA77?logo=youtube" alt="DIO - course"></a>
 <a href="https://www.gnu.org/software/bash/" title="Go to Bash homepage"><img src="https://img.shields.io/badge/Prompt-Project-blue?logo=gnu-bash&amp;logoColor=white" alt="Made with Bash"></a></p>
 
 -------
-
 
 <p align="center">
 <img 
