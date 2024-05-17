@@ -92,3 +92,11 @@ Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e 
 ---
 
 ⌨️ com 🎯 por [Adriano Santos](https://github.com/Adriano1976)
+
+<div align="center">
+<br><p align="centre"><b>Contagem de visitantes</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{python-data-analysis-secrets}/count.svg" /></p> 
+<br>  
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=87CEFA&height=120&section=footer"/>**** 
+</div>
